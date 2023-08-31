@@ -14,8 +14,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-I'll add one day uwu
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opengl/opengl-original.svg" alt="OpenGl" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 
 </p>
+        <!-- Languages And Tools Template -->
+	  <!-- <img src="" alt="" width="40" height="40"/> -->
