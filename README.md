@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there
 
-### Summary
 <p align="left">
     Cat Lover 🐱 - Currently Learning Graphics Programming - I love Rust 🦀
 </p>
@@ -15,6 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 I'll add one day uwu
 
 </p>
