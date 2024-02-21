@@ -1,7 +1,7 @@
 ### Hi there
 
 <p align="left">
-    Cat Lover 🐱 - Currently Learning Graphics Programming
+    Cat Lover 🐱 - Currently Embedded :3
 	
 </p>
 
