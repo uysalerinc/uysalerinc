@@ -1,7 +1,7 @@
 ### Hi there
 
 <p align="left">
-    Cat Lover 🐱 - Currently Embedded :3
+    Cat Lover 🐱 - Currently Learning Embedded :3
 	
 </p>
 
