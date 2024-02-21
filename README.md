@@ -14,11 +14,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-line.svg" alt="Rust" width="40" height="40"/>
 	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opengl/opengl-original.svg" alt="OpenGl" width="40" height="40"/>
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/>
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 
 </p>
         <!-- Languages And Tools Template -->
